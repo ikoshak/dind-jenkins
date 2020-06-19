@@ -1,5 +1,9 @@
 FROM jenkins/jenkins:lts
 
+LABEL NAME="ikote/dind"
+LABEL VERSION="0.0.1"
+LABEL MAINTAINER="iKote"
+
 USER root
 
 RUN cd /usr/local/bin && \
