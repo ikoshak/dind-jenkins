@@ -1,6 +1,6 @@
 This is Dockerfile for run Docker in Docker Jenkins.
 
-1. First step you should create docker image based oj thie docker file
+1. First step you should create docker image based on this docker file
 
 2. For start to work you should run this docker with next parameters:
 
